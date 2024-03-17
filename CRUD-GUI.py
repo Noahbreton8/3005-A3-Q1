@@ -3,11 +3,11 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QGr
 import psycopg2
 
 #posgresql credentials
-DATABASE_NAME = "A3-Q1"
-DATABASE_USER = "postgres"
-DATABASE_PASSWORD = "student"
-DATABASE_HOST = "localhost"
-DATABASE_PORT = "5432"
+DATABASE_NAME = ""
+DATABASE_USER = ""
+DATABASE_PASSWORD = ""
+DATABASE_HOST = ""
+DATABASE_PORT = ""
 
 #execute the query passed in
 #with the parameters sepeaated to avoid SQL injection
